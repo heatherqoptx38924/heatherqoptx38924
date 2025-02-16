@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm heatherqoptx38924
 
-<!--
-**heatherqoptx38924/heatherqoptx38924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎭 🏄 Curious about tools 🎭 🏄
 
-Here are some ideas to get you started:
+## About Me
+🛶 🛶 🏊 🛼 Building the future with technologies 🛶 🛶 🏊 🛼
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎮 🎬 🥋 🏏 A lover of virtual reality 🎮 🎬 🥋 🏏
+
+### Fun Facts
+🏑 🏑 🎱 🎰 Curious about developer relations 🏑 🏑 🎱 🎰
+
+---
+🎺 🌈 🎻 🎽 🏄 Thanks for visiting my profile! 🏄 🎯 🛶 🎬 🎾
